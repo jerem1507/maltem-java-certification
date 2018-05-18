@@ -9,4 +9,3 @@ Java Certification perform @Maltem
 ### Java Compiler
 
 [Here is a Dummy example on how to Compile Java Classes](http://www.dummies.com/programming/java/how-to-use-the-javac-command/)
-test
